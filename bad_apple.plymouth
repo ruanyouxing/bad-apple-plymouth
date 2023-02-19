@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=bad_apple
+Description=bad apple boot startup
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/bad_apple
+ScriptFile=/usr/share/plymouth/themes/bad_apple/script.script
