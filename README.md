@@ -3,7 +3,7 @@ Bad Apple Plymouth bootup splash (in 60 fps)
 
 # Dependencies
 * Plymouth ([AUR](https://aur.archlinux.org/packages/plymouth-git))<br>
-* Your bootloader already have `quiet splash loglevel=3 rd.udev.log_priority=3` [kernel
+* Make sure your bootloader already has `quiet splash loglevel=3 rd.udev.log_priority=3` [kernel
   parameters](https://wiki.archlinux.org/title/kernel_parameters)
 # How to install?
 Install this repo into `/usr/share/plymouth/themes` folder

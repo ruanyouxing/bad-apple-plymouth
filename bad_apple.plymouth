@@ -4,5 +4,5 @@ Description=bad apple boot startup
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/bad_apple
+ImageDir=/usr/share/plymouth/themes/bad_apple/frames
 ScriptFile=/usr/share/plymouth/themes/bad_apple/script.script
