@@ -25,4 +25,8 @@ Reboot and you are done!
   you prefer)`
 ### [Refrences from here](https://www.reddit.com/r/archlinux/comments/u5fjbi/how_do_i_make_my_boot_time_slower/)
 
-## Demo video soon ...
+## Demo video (running on Arch Linux VM)
+
+
+https://github.com/ruanyouxing/bad-apple-plymouth/assets/87190231/d32b9485-6493-4087-a4d5-141802da1b5f
+
